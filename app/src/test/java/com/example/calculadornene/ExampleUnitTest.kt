@@ -1,4 +1,4 @@
-package com.marcr.calculadora_intent
+package com.example.calculadornene
 
 import org.junit.Test
 

@@ -1,11 +1,10 @@
-package com.marcr.calculadora_intent
+package com.arnaull.calculadora_intent
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
-import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.marcr.calculadora_intent.databinding.ActivityMainBinding
+import com.alloveras.calculadora_intent.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

@@ -1,12 +1,9 @@
-package com.marcr.calculadora_intent
+package com.arnaull.calculadora_intent
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.Toast
-import com.marcr.calculadora_intent.databinding.ActivityMain2Binding
-import com.marcr.calculadora_intent.databinding.ActivityMainBinding
+import com.alloveras.calculadora_intent.databinding.ActivityMain2Binding
 
 class MainActivity2 : AppCompatActivity() {
 

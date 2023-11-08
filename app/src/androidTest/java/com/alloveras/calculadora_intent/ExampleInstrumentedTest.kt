@@ -1,4 +1,4 @@
-package com.marcr.calculadora_intent
+package com.arnaull.calculadora_intent
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
